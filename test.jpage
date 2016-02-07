@@ -1,0 +1,2 @@
+
+System.out.println("hoge.zip".matches("/^h/"));
